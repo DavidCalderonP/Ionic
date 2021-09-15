@@ -1,7 +1,7 @@
 version: '2'
 services:
-  Spotify:
-    image: angular:10
+  MyIonicApp:
+    image: angular:11
     working_dir: /app
     ports:
       - 4200:4200
